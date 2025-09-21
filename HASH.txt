@@ -1,2 +1,2 @@
 SHA256 hash of AryanGoldbachAlgorithm.pdf:
-19ff1422e61b67ae5e2977ea535431a24f9005bbc6a4f02dddae4b1bcfd97d5f
+55106a812deb832b8aa7e1c67de45fe5e3946c53893704bee712057e404a9a8f
